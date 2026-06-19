@@ -2,7 +2,7 @@
 
 An interactive analytics dashboard built to model user retention curves, simulate onboarding optimizations, and project compounding Customer Lifetime Value (LTV) across various digital business models.
 
-### 🔗 Live Link: [Launch the Interactive Simulator Here]([https://YOUR_GITHUB_USERNAME.github.io/cohort-retention-ltv-simulator/](https://dhavalk21.github.io/cohort-retention-LTV-simulator/))
+### 🔗 Live Link: [Launch the Interactive Simulator Here](https://dhavalk21.github.io/cohort-retention-LTV-simulator/)
 
 ## 🌟 Core PM Competencies Demonstrated
 
